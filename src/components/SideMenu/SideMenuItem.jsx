@@ -16,7 +16,7 @@ function SideMenuItem({
 				<NavLink
 					to={path}
 					className={({isActive}) =>
-						`flex items-center gap-2 
+						`flex items-center gap-2 font-medium
 						${
 							isActive
 								? "text-light-text-disable dark:text-dark-text-disable"
@@ -31,7 +31,7 @@ function SideMenuItem({
 				<Link
 					to={path}
 					target={target}
-					className={"flex py-2 px-4 rounded-3xl bg-dark-header items-center gap-1 text-shadow " + color}>
+					className={"flex py-2 px-4 rounded-3xl bg-dark-header items-center gap-1 text-shadow font-medium " + color}>
 					{icon}
 					{text}
 				</Link>

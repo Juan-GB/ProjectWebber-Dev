@@ -34,14 +34,16 @@ function HeaderContainer() {
 						to="https://google.com"
 						target="_blank"
 						ariaLabel="Discord page"
-						text="Discord">
+						text="Discord"
+						color={"text-light-text dark:text-dark-text"}>
 						Discord
 					</HeaderNavLink>
 					<HeaderNavLink
 						to="https://google.com"
 						target="_blank"
 						ariaLabel="Feedback page"
-						text="Feedback">
+						text="Feedback"
+						color={"text-light-text dark:text-dark-text"}>
 						Feedback
 					</HeaderNavLink>
 					<ThemeButton />
