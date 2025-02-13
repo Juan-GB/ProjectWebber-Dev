@@ -1,0 +1,1 @@
+import{j as e}from"./index-C_Jv8HOB.js";function r(){return e.jsxs("section",{className:"flex flex-col justify-center items-center h-full w-full text-light-text dark:text-dark-text",children:[e.jsx("h1",{className:"text-2xl",children:"Bem-vindo ao projeto Webber!"}),e.jsx("p",{children:"Descrição do projeto..."})]})}export{r as default};
