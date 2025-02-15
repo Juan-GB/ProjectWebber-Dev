@@ -1,1 +1,0 @@
-import{j as t,N as e}from"./index-C7wtnRCj.js";function r(){return t.jsx("section",{children:t.jsx(e,{text:"Criar personagem",path:"/ProjectWebber-Dev/Customizer",ariaLabel:"Ir para o customizador",customStyle:" bg-dark-cta py-3 px-5 rounded-4xl text-dark-text! dark:text-light-text! shadow-button"})})}export{r as default};
